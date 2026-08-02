@@ -122,15 +122,36 @@ pip install -r requirements.txt
 
 ### Power BI Dashboard
 
-Screenshots/PowerBI_Dashboard.png.png
+![Power BI Dashboard](Screenshots/PowerBI_Dashboard.png.png)
 
 ### Python Analysis
 
-(Add Python chart screenshots here)
+![Python Chart 1](Screenshots/Python_Chart1.png.png)
+
+
+![Python Chart 2](Screenshots/Python_Chart2.png.png)
+
+
+![Python Chart 3](Screenshots/Python_Chart3.png.png)
+
+
+![Python Chart 4](Screenshots/Python_Chart4.png.png)
 
 ### SQL Analysis
 
-(Add SQL screenshots here)
+![SQL Query 1](Screenshots/SQL_Query1.png.png)
+
+
+![SQL Query 2](Screenshots/SQL_Query2.png.png)
+
+
+![SQL Query 3](Screenshots/SQL_Query3.png.png)
+
+
+![SQL Query 4](Screenshots/SQL_Query4.png.png)
+
+
+![SQL Query 5](Screenshots/SQL_Query5.png.png)
 
 ---
 
