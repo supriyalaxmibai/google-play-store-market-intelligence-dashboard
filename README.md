@@ -122,36 +122,47 @@ pip install -r requirements.txt
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](Screenshots/PowerBI_Dashboard.png.png)
+![Power BI Dashboard](Screenshots/PowerBI_Dashboard.png)
 
 ### Python Analysis
 
-![Python Chart 1](Screenshots/Python_Chart1.png.png)
+#### Top Categories by Number of Apps
 
+![Python Chart 1](Screenshots/Python_Chart1.png)
 
-![Python Chart 2](Screenshots/Python_Chart2.png.png)
+#### Free vs Paid Apps
 
+![Python Chart 2](Screenshots/Python_Chart2.png)
 
-![Python Chart 3](Screenshots/Python_Chart3.png.png)
+#### Total Installs by Category
 
+![Python Chart 3](Screenshots/Python_Chart3.png)
 
-![Python Chart 4](Screenshots/Python_Chart4.png.png)
+#### Content Rating Distribution
+
+![Python Chart 4](Screenshots/Python_Chart4.png)
 
 ### SQL Analysis
 
-![SQL Query 1](Screenshots/SQL_Query1.png.png)
+#### Top Rated Apps
 
+![SQL Query 1](Screenshots/SQL_Query1.png)
 
-![SQL Query 2](Screenshots/SQL_Query2.png.png)
+#### Most Expensive Apps
 
+![SQL Query 2](Screenshots/SQL_Query2.png)
 
-![SQL Query 3](Screenshots/SQL_Query3.png.png)
+#### Average Rating by Category
 
+![SQL Query 3](Screenshots/SQL_Query3.png)
 
-![SQL Query 4](Screenshots/SQL_Query4.png.png)
+#### Apps per Category
 
+![SQL Query 4](Screenshots/SQL_Query4.png)
 
-![SQL Query 5](Screenshots/SQL_Query5.png.png)
+#### Most Installed Category
+
+![SQL Query 5](Screenshots/SQL_Query5.png)
 
 ---
 
