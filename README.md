@@ -122,7 +122,7 @@ pip install -r requirements.txt
 
 ### Power BI Dashboard
 
-(Add dashboard screenshot here)
+Screenshots/PowerBI_Dashboard.png.png
 
 ### Python Analysis
 
